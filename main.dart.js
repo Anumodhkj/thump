@@ -66960,7 +66960,7 @@ V.yo.prototype={
 U:function(){return new V.Qj(C.l)}}
 V.Qj.prototype={
 aq:function(){this.aJ()
-this.d=M.ann(V.api("images/faa.mp4"))},
+this.d=M.ann(V.api("https://thumpdes.000webhostapp.com/Advertisements/faa.mp4"))},
 k:function(a){this.d.k(0)
 this.aF(0)},
 q:function(a,b){var s=null
@@ -66969,7 +66969,7 @@ V.yp.prototype={
 U:function(){return new V.Qi(C.l)}}
 V.Qi.prototype={
 aq:function(){this.aJ()
-this.d=M.ann(V.api("images/saa.mp4"))},
+this.d=M.ann(V.api("https://thumpdes.000webhostapp.com/Advertisements/saa.mp4"))},
 k:function(a){this.d.k(0)
 this.aF(0)},
 q:function(a,b){var s=null
